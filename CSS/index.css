@@ -1,0 +1,23 @@
+body{
+    background-color: #f2f2f2;
+}
+hr{
+  border-style: none;
+  border-top: 8px dotted #F8F8F8;
+  width : 75px;
+
+}
+img{
+   border-radius: 10%;
+   width: 150px;
+}
+h1 {
+    background: -webkit-linear-gradient(rgb(8, 187, 236), rgb(239, 35, 212));
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+  }
+h3{
+    background: -webkit-linear-gradient(rgb(236, 221, 8), rgb(255, 72, 35));
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
